@@ -10,7 +10,7 @@ This python program validates US phone number.  Given an input phone number in t
 Clone this repository: 
 
 ````
-git clone https://github.com/katharinechen/ear_pain_test.git
+git clone https://github.com/katharinechen/phonevalidator.git
 ````
 
 Run the function as follows: 
