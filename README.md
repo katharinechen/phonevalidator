@@ -4,7 +4,7 @@
 This program is written by Katharine Chen for a programming exercise for Bright.md. 
 
 ##Description
-This program uses [Protractor](https://github.com/angular/protractor) to navigate through the Ear Pain (short) survey of Bright.md's SmartExam.
+This python program validates US phone number.  Given an input phone number in the terminal, it will return 'pass' or 'fail'. Valid phone numbers are 10 or 11 digits, may not begin with a 0, and may contain any number of spaces, dots or dashes.
 
 ##Installation 
 Clone this repository: 
